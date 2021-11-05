@@ -48,63 +48,52 @@
 				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
-				BwAAAA==
+				CAAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
-					<key>PRT3</key>
+					<key>HS01</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>PRT3</string>
+						<string>HS01</string>
 						<key>port</key>
 						<data>
-						AwAAAA==
+						AgAAAA==
 						</data>
 					</dict>
-					<key>PRT4</key>
+					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>PRT4</string>
+						<string>HS02</string>
 						<key>port</key>
 						<data>
 						BAAAAA==
 						</data>
 					</dict>
-					<key>PRT5</key>
+					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>PRT5</string>
-						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
-					</dict>
-					<key>PRT6</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>PRT6</string>
+						<string>SS01</string>
 						<key>port</key>
 						<data>
 						BgAAAA==
 						</data>
 					</dict>
-					<key>PRT7</key>
+					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>PRT7</string>
+						<string>SS02</string>
 						<key>port</key>
 						<data>
-						BwAAAA==
+						CAAAAA==
 						</data>
 					</dict>
 				</dict>
@@ -142,92 +131,92 @@
 				</data>
 				<key>ports</key>
 				<dict>
-					<key>PO10</key>
+					<key>HS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>9</integer>
 						<key>name</key>
-						<string>PO10</string>
+						<string>HS01</string>
+						<key>port</key>
+						<data>
+						BwAAAA==
+						</data>
+					</dict>
+					<key>HS02</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>name</key>
+						<string>HS02</string>
+						<key>port</key>
+						<data>
+						CAAAAA==
+						</data>
+					</dict>
+					<key>HS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HS03</string>
+						<key>port</key>
+						<data>
+						CQAAAA==
+						</data>
+					</dict>
+					<key>HS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HS04</string>
 						<key>port</key>
 						<data>
 						CgAAAA==
 						</data>
 					</dict>
-					<key>PO11</key>
+					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>PO11</string>
+						<string>HS05</string>
 						<key>port</key>
 						<data>
 						CwAAAA==
 						</data>
 					</dict>
-					<key>PO12</key>
+					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>255</integer>
 						<key>name</key>
-						<string>PO12</string>
-						<key>port</key>
-						<data>
-						DAAAAA==
-						</data>
-					</dict>
-					<key>PO13</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>9</integer>
-						<key>name</key>
-						<string>PO13</string>
+						<string>HS06</string>
 						<key>port</key>
 						<data>
 						DQAAAA==
 						</data>
 					</dict>
-					<key>POT1</key>
+					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
-						<string>POT1</string>
-						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
-					</dict>
-					<key>POT3</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>POT3</string>
+						<string>SS01</string>
 						<key>port</key>
 						<data>
 						AwAAAA==
 						</data>
 					</dict>
-					<key>POT4</key>
+					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>9</integer>
 						<key>name</key>
-						<string>POT4</string>
+						<string>SS02</string>
 						<key>port</key>
 						<data>
 						BAAAAA==
-						</data>
-					</dict>
-					<key>POT5</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>POT5</string>
-						<key>port</key>
-						<data>
-						BQAAAA==
 						</data>
 					</dict>
 				</dict>
