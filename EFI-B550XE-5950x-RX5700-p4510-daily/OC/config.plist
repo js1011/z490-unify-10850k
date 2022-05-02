@@ -98,7 +98,7 @@
 				<key>Comment</key>
 				<string>p4510-nvme-patch-1.aml</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>p4510-nvme-patch-1.aml</string>
 			</dict>
